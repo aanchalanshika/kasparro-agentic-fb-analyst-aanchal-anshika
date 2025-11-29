@@ -1,0 +1,37 @@
+[
+    {
+        "hypothesis": "ROAS has decreased in recent days",
+        "reasoning": "THINK: ROAS dropped from 9.97 to 7.14. ANALYZE: Declining returns despite consistent spend suggests audience fatigue or creative saturation. CONCLUDE: Most likely creative fatigue or audience exhaustion.",
+        "validation_evidence": "ROAS dropped from 9.97 to 7.14 (28.4% decline). Confirmed via 7-day trend analysis.",
+        "confidence": 0.92,
+        "metrics_checked": [
+            "roas",
+            "date"
+        ],
+        "validation_method": "trend_confirmation",
+        "status": "validated"
+    },
+    {
+        "hypothesis": "Average CTR is below industry standard",
+        "reasoning": "THINK: CTR is 0.0131, below 2% benchmark. ANALYZE: Low engagement despite spend suggests creative quality issues. CONCLUDE: Creative messaging may not be resonating with target audience.",
+        "validation_evidence": "CTR mean is 0.0131, below 0.02 threshold. 89.0% of campaigns have CTR < 2%.",
+        "confidence": 0.86,
+        "metrics_checked": [
+            "ctr"
+        ],
+        "validation_method": "threshold_test",
+        "status": "validated"
+    },
+    {
+        "hypothesis": "Facebook platform performs better than Instagram",
+        "reasoning": "THINK: Facebook ROAS (9.91) significantly outperforms Instagram (9.35). ANALYZE: Platform-specific audience fit or competition levels differ. CONCLUDE: Budget reallocation may improve overall efficiency.",
+        "validation_evidence": "Facebook avg ROAS: 9.91, Instagram avg ROAS: 9.35 (6.0% difference)",
+        "confidence": 0.89,
+        "metrics_checked": [
+            "platform",
+            "roas"
+        ],
+        "validation_method": "comparative_analysis",
+        "status": "validated"
+    }
+]

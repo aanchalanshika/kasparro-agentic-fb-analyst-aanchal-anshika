@@ -1,0 +1,95 @@
+[
+    {
+        "campaign_name": "WOMEN Cotton Classics",
+        "current_ctr": 0.003,
+        "current_creative_message": "Hot & comfy: women bras now 20% off \u2014 feel the difference.",
+        "creative_variations": [
+            {
+                "variation_id": 1,
+                "headline": "Experience Ultimate Comfort All Day Long",
+                "message": "Breathable, ultra-soft undergarments designed for active lifestyles. Say goodbye to discomfort and hello to confidence.",
+                "cta": "Shop Comfort Now",
+                "framework": "emotional",
+                "reasoning": "Emotional appeal to comfort addresses core product benefit. Low CTR suggests generic messaging needs differentiation."
+            },
+            {
+                "variation_id": 2,
+                "headline": "Premium Quality - Now 30% Off",
+                "message": "High-quality materials at unbeatable prices. Limited-time offer on our best-selling comfort collection. Free shipping over $50.",
+                "cta": "Claim Your Discount",
+                "framework": "logical",
+                "reasoning": "Value-conscious messaging with specific discount percentage. Price mentions typically increase CTR."
+            },
+            {
+                "variation_id": 3,
+                "headline": "Flash Sale Ends Tonight at Midnight",
+                "message": "Don't miss your chance to upgrade your essentials. Premium undergarments at prices that won't last. Limited stock available.",
+                "cta": "Shop Before Midnight",
+                "framework": "urgency",
+                "reasoning": "Creates time pressure to drive immediate action. Urgency-based creatives achieve higher CTR during promotions."
+            }
+        ]
+    },
+    {
+        "campaign_name": "Men Bold Colors Drop",
+        "current_ctr": 0.0031,
+        "current_creative_message": "All\u2011day comfort, zero pinch \u2014 try our men briefs!",
+        "creative_variations": [
+            {
+                "variation_id": 1,
+                "headline": "Experience Ultimate Comfort All Day Long",
+                "message": "Breathable, ultra-soft undergarments designed for active lifestyles. Say goodbye to discomfort and hello to confidence.",
+                "cta": "Shop Comfort Now",
+                "framework": "emotional",
+                "reasoning": "Emotional appeal to comfort addresses core product benefit. Low CTR suggests generic messaging needs differentiation."
+            },
+            {
+                "variation_id": 2,
+                "headline": "Premium Quality - Now 30% Off",
+                "message": "High-quality materials at unbeatable prices. Limited-time offer on our best-selling comfort collection. Free shipping over $50.",
+                "cta": "Claim Your Discount",
+                "framework": "logical",
+                "reasoning": "Value-conscious messaging with specific discount percentage. Price mentions typically increase CTR."
+            },
+            {
+                "variation_id": 3,
+                "headline": "Flash Sale Ends Tonight at Midnight",
+                "message": "Don't miss your chance to upgrade your essentials. Premium undergarments at prices that won't last. Limited stock available.",
+                "cta": "Shop Before Midnight",
+                "framework": "urgency",
+                "reasoning": "Creates time pressure to drive immediate action. Urgency-based creatives achieve higher CTR during promotions."
+            }
+        ]
+    },
+    {
+        "campaign_name": "Men Bold Colors Drop",
+        "current_ctr": 0.0035,
+        "current_creative_message": "Hot & comfy: men athletic briefs now 20% off \u2014 feel the difference.",
+        "creative_variations": [
+            {
+                "variation_id": 1,
+                "headline": "Experience Ultimate Comfort All Day Long",
+                "message": "Breathable, ultra-soft undergarments designed for active lifestyles. Say goodbye to discomfort and hello to confidence.",
+                "cta": "Shop Comfort Now",
+                "framework": "emotional",
+                "reasoning": "Emotional appeal to comfort addresses core product benefit. Low CTR suggests generic messaging needs differentiation."
+            },
+            {
+                "variation_id": 2,
+                "headline": "Premium Quality - Now 30% Off",
+                "message": "High-quality materials at unbeatable prices. Limited-time offer on our best-selling comfort collection. Free shipping over $50.",
+                "cta": "Claim Your Discount",
+                "framework": "logical",
+                "reasoning": "Value-conscious messaging with specific discount percentage. Price mentions typically increase CTR."
+            },
+            {
+                "variation_id": 3,
+                "headline": "Flash Sale Ends Tonight at Midnight",
+                "message": "Don't miss your chance to upgrade your essentials. Premium undergarments at prices that won't last. Limited stock available.",
+                "cta": "Shop Before Midnight",
+                "framework": "urgency",
+                "reasoning": "Creates time pressure to drive immediate action. Urgency-based creatives achieve higher CTR during promotions."
+            }
+        ]
+    }
+]
