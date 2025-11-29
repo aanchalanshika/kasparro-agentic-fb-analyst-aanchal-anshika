@@ -1,0 +1,26 @@
+python_version: "3.10"
+random_seed: 42
+confidence_min: 0.6
+use_sample_data: false
+
+# LLM Configuration
+llm:
+  provider: "google"  # google, openai, or anthropic
+  model: "gemini-1.5-flash"
+  temperature: 0.7
+  max_tokens: 2048
+
+# Data paths
+data:
+  csv_path: "data/synthetic_fb_ads_undergarments.csv"
+  
+# Output paths
+output:
+  reports_dir: "reports"
+  logs_dir: "logs"
+  
+# Agent thresholds
+thresholds:
+  confidence_minimum: 0.6
+  low_ctr_threshold: 0.02
+  roas_trend_days: 7
