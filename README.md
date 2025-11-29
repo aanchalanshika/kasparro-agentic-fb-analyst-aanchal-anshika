@@ -304,25 +304,6 @@ data:
   # csv_path: "data/full_dataset.csv"                  # Full
 ```
 
-## 🐛 Troubleshooting
-
-### Error: `GOOGLE_API_KEY not found`
-**Solution**: Set environment variable:
-```bash
-set GOOGLE_API_KEY=your_key  # Windows
-export GOOGLE_API_KEY=your_key  # Mac/Linux
-```
-
-Agents will fallback to rule-based logic if no API key is provided.
-
-### Error: `FileNotFoundError: data/synthetic_fb_ads_undergarments.csv`
-**Solution**: Verify CSV exists or update path in `config/config.yaml`
-
-### Error: `Import could not be resolved`
-**Solution**: Activate virtual environment first:
-```bash
-.venv\Scripts\activate
-```
 
 ### Low-quality insights
 **Solution**: 
